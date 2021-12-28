@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Manikya Alister</title>
-    <link>/docs/</link>
+    <link>https://manikyaalister.github.io/docs/</link>
     <description>Recent content in Research on Manikya Alister</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Created using R Markdown</copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://manikyaalister.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

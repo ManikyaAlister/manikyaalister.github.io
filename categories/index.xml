@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Manikya Alister</title>
-    <link>/categories/</link>
+    <link>https://manikyaalister.github.io/categories/</link>
     <description>Recent content in Categories on Manikya Alister</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Created using R Markdown</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://manikyaalister.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>https://manikyaalister.github.io/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>https://manikyaalister.github.io/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>/categories/themes/</link>
+      <link>https://manikyaalister.github.io/categories/themes/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/themes/</guid>
+      <guid>https://manikyaalister.github.io/categories/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>/categories/syntax/</link>
+      <link>https://manikyaalister.github.io/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/syntax/</guid>
+      <guid>https://manikyaalister.github.io/categories/syntax/</guid>
       <description></description>
     </item>
     
