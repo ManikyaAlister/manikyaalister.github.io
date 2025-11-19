@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /css/
+Disallow: /js/
+Disallow: /static/pdf/
+
+Sitemap: https://manikyaalister.github.io/sitemap.xml
